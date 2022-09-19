@@ -96,8 +96,6 @@ export const config = {
       horoscopeDate: '01-27',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
     },
   /**
    * 【推送完成提醒】 相关，主要用来展示发送是否成功/失败的数据
@@ -107,7 +105,7 @@ export const config = {
   CALLBACK_TEMPLATE_ID: "8lHe50zTF__RLWVRWBUS4K1HIhHGnAyy5n5gJlw6wTk",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [oBJyR6rRky5Jrx8pb-48gkMih2Ak
+  CALLBACK_USERS: [
     {
       // 一般都填自己
       name: "自己",
