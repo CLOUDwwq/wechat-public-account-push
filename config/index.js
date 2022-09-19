@@ -97,6 +97,7 @@ export const config = {
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
     },
+    ],
   /**
    * 【推送完成提醒】 相关，主要用来展示发送是否成功/失败的数据
    */
